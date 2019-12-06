@@ -1,4 +1,4 @@
 #!/bin/bash -x
 
-echo "hello.... prasad";
+echo "hello... prasad";
 
